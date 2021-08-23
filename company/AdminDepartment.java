@@ -6,7 +6,8 @@ public class AdminDepartment extends SuperDepartment{
     {
         return "Admin Department";
     }
-    public String getTodaysWork() {
+    public String getTodaysWork()
+    {
         return "Complete your documents submission";
     }
     public String getWorkDeadline()
