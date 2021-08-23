@@ -1,6 +1,7 @@
 package com.company;
 
-public class SuperDepartment {
+public class SuperDepartment
+{
     public String departmentName()
     {
         return "Super Department";
@@ -13,7 +14,8 @@ public class SuperDepartment {
     {
         return "Nil";
     }
-    public String isTodayAHoliday() {
+    public String isTodayAHoliday()
+    {
         return "Today is not a Holiday";
     }
 }
